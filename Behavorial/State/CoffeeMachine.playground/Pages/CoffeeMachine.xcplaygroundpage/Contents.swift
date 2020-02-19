@@ -1,3 +1,4 @@
+//: ![State machine diagram of the coffee machine?](CoffeeMachineStateDiagram.png)
 import Foundation
 
 // file private hides the states from being available outside the file
