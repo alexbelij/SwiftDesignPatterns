@@ -1,19 +1,19 @@
-# Swift Design Patterns
+# Design Patterns in Swift
 
 This repo has 12 design patterns implemented in swift. The design patterns are classified into behavioral, structural and creational design patterns. The examples are taken from the "Practical design patterns in Swift" course
 
-## Behavorial
+## Behavorial Design Patters
 * Chain of Responsibility
 * Iterator
 * Observer
 * State 
 
-## Creation 
+## Creation Design Patters
 * Singleton
 * Prototype
 * Factory Method
 
-## Structural
+## Structural Design Patters
 * Adapter
 * Decorator
 * Façade
